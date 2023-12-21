@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>accPict.png</file>
+        <file>h_carrot.png</file>
+        <file>h_cucumber.png</file>
+        <file>h_onion.png</file>
+        <file>h_potato.png</file>
+        <file>h_sunflower.png</file>
+        <file>h_tomato.png</file>
+        <file>s_carrot.png</file>
+        <file>s_cucumber.png</file>
+        <file>s_onion.png</file>
+        <file>s_potato.png</file>
+        <file>s_sunflower.png</file>
+        <file>s_tomato.png</file>
+        <file>wool.png</file>
+        <file>milk.png</file>
+        <file>meat.png</file>
+        <file>eggs.png</file>
+        <file>fertilizer.png</file>
+        <file>feer.png</file>
+        <file>not-field.png</file>
+        <file>field-false.png</file>
+        <file>field-true.png</file>
+        <file>chickenHouse.png</file>
+    </qresource>
+</RCC>
